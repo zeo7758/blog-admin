@@ -1,0 +1,19 @@
+{
+  "name": "blog-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeo7758/blog-admin.git"
+  },
+  "author": "zeo7758",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeo7758/blog-admin/issues"
+  },
+  "homepage": "https://github.com/zeo7758/blog-admin#readme"
+}
